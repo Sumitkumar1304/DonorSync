@@ -1,2 +1,0 @@
-# DonorSync
-DonorSync is a transformative initiative aimed at connecting communities through acts of generosity. By leveraging technology to enhance accessibility and transparency, the app aspires to make a meaningful difference in the lives of many, fostering a spirit of compassion and social responsibility.
